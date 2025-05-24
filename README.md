@@ -41,7 +41,3 @@ It improves efficiency, reduces human error, and ensures transparency in managin
 - Bootstrap (UI Framework)
 - Git & GitHub (Version Control)
 
----
-
-## 📎 Repository Structure
-
